@@ -22,3 +22,8 @@ C. Set of students who play only cricket
 D. Set of students who play only badminton
 E. Number of students who play neither cricket nor badminton
 
+LA4. Write Python program to store first year percentage of students in array. Write
+function for sorting array of floating point numbers in ascending order using
+A. Selection Sort
+B. Bubble sort and display top five scores.
+
