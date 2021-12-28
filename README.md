@@ -43,3 +43,12 @@ A. The list of available seats is to be displayed
 B. The seats are to be booked
 C. The booking can be cancelled
 
+LA8. Second year Computer Engineering class set A of students like Vanilla Ice-cream and set B of
+students like butterscotch ice-cream. Write C/C++ program to store two sets using linked list
+compute and display
+A. Set of students who like either vanilla or butterscotch or both
+B. Set of students who like both vanilla and butterscotch
+C. Set of students who like only vanilla not butterscotch
+D. Set of students who like only butterscotch not vanilla
+E. Number of students who like neither vanilla nor butterscotch
+
