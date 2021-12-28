@@ -34,3 +34,12 @@ student attended training program or not, using linear search and sentinel searc
 LA6 Write Python program to store first year percentage of students in array. Write
 function for sorting array of floating point numbers in ascending order using quick sort
 and display top five scores.
+
+LA7 The ticket booking system of Cinemax theater has to be implemented using C++ program.
+There are 10 rows and 7 seats in each row. Doubly circular linked list has to be maintained to
+keep track of free seats at rows. Assume some random booking to start with. Use array to store
+pointers (Head pointer) to each row On demand
+A. The list of available seats is to be displayed
+B. The seats are to be booked
+C. The booking can be cancelled
+
