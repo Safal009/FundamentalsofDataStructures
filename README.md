@@ -27,3 +27,7 @@ function for sorting array of floating point numbers in ascending order using
 A. Selection Sort
 B. Bubble sort and display top five scores.
 
+L5.A) Write Python program to store roll numbers of student in array who attended
+training program in random order. Write function for searching whether particular
+student attended training program or not, using linear search and sentinel search.
+
