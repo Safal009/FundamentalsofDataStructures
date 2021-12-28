@@ -52,3 +52,10 @@ C. Set of students who like only vanilla not butterscotch
 D. Set of students who like only butterscotch not vanilla
 E. Number of students who like neither vanilla nor butterscotch
 
+LA9. Implement C++ program for expression conversion as infix to postfix and its
+evaluation using stack based on given conditions:
+1. Operands and operator, both must be single character.
+2. Input Postfix expression must be in a desired format.
+Only '+', '-', '*' and '/ ' operators are expected.
+
+
