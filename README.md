@@ -13,3 +13,12 @@ A. Addition of two matrices
 B. Subtraction of two matrices
 C. Multiplication of two
 D. Transpose of matrix
+
+LA3 In Second year Computer Engineering class of M students, set A of students play
+cricket and set B of students play badminton. Write python program to find and
+displayA. Set of students who play either cricket or badminton or both
+B. Set of students who play both cricket and badminton
+C. Set of students who play only cricket
+D. Set of students who play only badminton
+E. Number of students who play neither cricket nor badminton
+
